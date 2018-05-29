@@ -1,0 +1,39 @@
+{
+  "name": "data",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "bcrypt": "^2.0.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "deep-equal": "^1.0.1",
+    "express": "~4.16.0",
+    "express-validator": "^5.1.2",
+    "google-locations": "^0.2.0",
+    "google-play-scraper": "^6.0.1",
+    "googleplaces": "^0.6.1",
+    "http-errors": "~1.6.2",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^8.2.1",
+    "lodash": "^4.17.5",
+    "lodash.isequal": "^4.5.0",
+    "moment": "^2.22.1",
+    "mongoose": "^5.0.15",
+    "morgan": "~1.9.0",
+    "nodemailer": "^4.6.4",
+    "npm": "^5.8.0",
+    "passport": "^0.4.0",
+    "passport-local-mongoose": "^5.0.0",
+    "scrape-it": "^5.0.3",
+    "unix-time": "^1.0.1",
+    "url": "^0.11.0",
+    "yelp-fusion": "^2.0.3",
+    "zomato": "^1.1.0"
+  }
+}
